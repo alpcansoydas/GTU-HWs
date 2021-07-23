@@ -11,7 +11,7 @@ using namespace std;
 				Input();
 				
 				int validInput = AddMark();
-				if(!validInput){         //geçersiz bir sayı girerse i'yi bir azaltıp devam et.
+				if(!validInput){         //geÃ§ersiz bir sayÃ½ girerse i'yi bir azaltÃ½p devam et.
 					i--;
 					continue; 
 				}
@@ -157,8 +157,3 @@ using namespace std;
 				won=0;
 				input=0;
 		}		
-		
-		
-		
-
-
