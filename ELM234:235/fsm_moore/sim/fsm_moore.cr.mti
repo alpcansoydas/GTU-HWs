@@ -1,0 +1,15 @@
+D:/fpga/fsm_moore/rtl/moore.sv {1 {vlog -work work -sv -stats=none D:/fpga/fsm_moore/rtl/moore.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm_moore
+
+Top level modules:
+	fsm_moore
+
+} {} {}} D:/fpga/fsm_moore/tb/tb_moore.sv {1 {vlog -work work -sv -stats=none D:/fpga/fsm_moore/tb/tb_moore.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fsm_moore
+
+Top level modules:
+	tb_fsm_moore
+
+} {} {}}

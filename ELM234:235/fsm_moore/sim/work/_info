@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/fpga/moore/sim
+vfsm_moore
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1620731713
+!i10b 1
+!s100 Tl2hXZ@fBWW7f^[B;fd:`2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlQaF@S]Nl987jKzk44YV70
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/fpga/fsm_moore/sim
+w1620731589
+Z5 8D:/fpga/fsm_moore/rtl/moore.sv
+Z6 FD:/fpga/fsm_moore/rtl/moore.sv
+!i122 15
+L0 1 48
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1620731713.000000
+Z9 !s107 D:/fpga/fsm_moore/rtl/moore.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/fsm_moore/rtl/moore.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+vmoore
+R0
+!s110 1620730602
+!i10b 1
+!s100 iS`R6o6fV8:T7Vd3@`gA01
+R2
+I=kPIPdJ;dmgQRI]9BYfi>1
+R3
+S1
+R4
+w1620730120
+R5
+R6
+!i122 0
+L0 1 49
+R7
+r1
+!s85 0
+31
+Z13 !s108 1620730602.000000
+R9
+R10
+!i113 1
+R11
+R12
+vtb_fsm_moore
+R0
+R1
+!i10b 1
+!s100 5O=DNPXf25Ph18AkP<9<N2
+R2
+I<o>Q7M3I;`AGOC7cZZac73
+R3
+S1
+R4
+w1620731425
+Z14 8D:/fpga/fsm_moore/tb/tb_moore.sv
+Z15 FD:/fpga/fsm_moore/tb/tb_moore.sv
+!i122 16
+Z16 L0 3 28
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 D:/fpga/fsm_moore/tb/tb_moore.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/fsm_moore/tb/tb_moore.sv|
+!i113 1
+R11
+R12
+vtb_moore
+R0
+!s110 1620730603
+!i10b 1
+!s100 BCG6gno_k`nWUFl:W@Wfb1
+R2
+IAXS7Nz@F<8=AeS:^zLNa63
+R3
+S1
+R4
+w1620730344
+R14
+R15
+!i122 1
+R16
+R7
+r1
+!s85 0
+31
+R13
+R17
+R18
+!i113 1
+R11
+R12
