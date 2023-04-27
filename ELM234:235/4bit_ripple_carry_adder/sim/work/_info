@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/fpga/quest/sim
+vfull_adder_str
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1624818962
+!i10b 1
+!s100 9dNQJIPQ8<eHE9X4Y:oHh2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISi8WeOaS9M<R?7W?aNgb20
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/fpga/lab0_g20_p2/sim
+Z5 w1624818120
+Z6 8D:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv
+Z7 FD:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv
+!i122 29
+L0 6 6
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1624818962.000000
+Z10 !s107 D:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vhalf_adder
+R0
+R1
+!i10b 1
+!s100 I4=MYI<UJVW0Ua2>YhBTO1
+R2
+I?6Z?:iL<l^0`@c5:EQPO^0
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 29
+L0 1 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vlab1_g20_p2
+R0
+!s110 1624796797
+!i10b 1
+!s100 bZ<f`;9o6<GzkF7X1X9VN1
+R2
+I0Ph1;T^6F0oDXASSD=NAV1
+R3
+S1
+R4
+w1624796795
+Z14 8D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv
+Z15 FD:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv
+!i122 9
+L0 1 16
+R8
+r1
+!s85 0
+31
+!s108 1624796797.000000
+!s107 D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv|
+!i113 1
+R12
+R13
+vripple_carry_adder
+R0
+R1
+!i10b 1
+!s100 ]n^KVSln=lA;^oXPl=e=D1
+R2
+IlcgEh3M_Xacg5Bmlc80OI3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 29
+L0 13 13
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtb_lab1_g20_p2
+R0
+R1
+!i10b 1
+!s100 UESRReHZYfU]`oGn[5Th_2
+R2
+IO7^HU<:n:?lD=z9;LR:A@0
+R3
+S1
+R4
+w1624818951
+R14
+R15
+!i122 30
+L0 1 14
+R8
+r1
+!s85 0
+31
+R9
+Z17 !s107 D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv|
+R16
+!i113 1
+R12
+R13

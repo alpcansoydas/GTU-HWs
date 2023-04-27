@@ -1,0 +1,17 @@
+D:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv {1 {vlog -work work -sv -stats=none D:/fpga/lab0_g20_p2/rtl/lab1_g20_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder
+-- Compiling module full_adder_str
+-- Compiling module ripple_carry_adder
+
+Top level modules:
+	ripple_carry_adder
+
+} {} {}} D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv {1 {vlog -work work -sv -stats=none D:/fpga/lab0_g20_p2/tb/tb_lab1_g20_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab1_g20_p2
+
+Top level modules:
+	tb_lab1_g20_p2
+
+} {} {}}
