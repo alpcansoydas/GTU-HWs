@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/fpga/fsm_moore/sim
+vfsm_mealy
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1620733574
+!i10b 1
+!s100 Nj7ce`6cacVz6AL0Dh?m`3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ID^OHPihK[:jA62K9Zdl021
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/fpga/fsm_mealy/sim
+w1620733569
+8D:/fpga/fsm_mealy/rtl/fsm_mealy.sv
+FD:/fpga/fsm_mealy/rtl/fsm_mealy.sv
+!i122 1
+L0 1 45
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1620733574.000000
+!s107 D:/fpga/fsm_mealy/rtl/fsm_mealy.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/fsm_mealy/rtl/fsm_mealy.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vtb_fsm_moore
+R0
+!s110 1620733575
+!i10b 1
+!s100 kmA:kz[Fl4Z0B^Z?U3d=X3
+R1
+IP^<;Fi7kRka0k64D4IRb50
+R2
+S1
+R3
+w1620733129
+8D:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv
+FD:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv
+!i122 2
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv|
+!i113 1
+R6
+R7

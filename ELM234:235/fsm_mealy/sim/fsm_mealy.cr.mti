@@ -1,0 +1,15 @@
+D:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv {1 {vlog -work work -sv -stats=none D:/fpga/fsm_mealy/tb/tb_fsm_mealy.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fsm_moore
+
+Top level modules:
+	tb_fsm_moore
+
+} {} {}} D:/fpga/fsm_mealy/rtl/fsm_mealy.sv {1 {vlog -work work -sv -stats=none D:/fpga/fsm_mealy/rtl/fsm_mealy.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm_mealy
+
+Top level modules:
+	fsm_mealy
+
+} {} {}}
