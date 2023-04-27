@@ -1,0 +1,15 @@
+D:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv {1 {vlog -work work -sv -stats=none D:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab1_g20_p3
+
+Top level modules:
+	lab1_g20_p3
+
+} {} {}} D:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv {1 {vlog -work work -sv -stats=none D:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab1_g20_p3
+
+Top level modules:
+	tb_lab1_g20_p3
+
+} {} {}}

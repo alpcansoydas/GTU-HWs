@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/fpga/lab0_g20_p2/sim
+vlab1_g20_p3
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1624886533
+!i10b 1
+!s100 gb=9OzlPoYZmVNanIH;hT0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzcCkkbT]lA=JJobjDk;mz3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/fpga/lab1_g20_p3/sim
+w1624886520
+8D:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv
+FD:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv
+!i122 5
+L0 1 10
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1624886533.000000
+!s107 D:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/lab1_g20_p3/rtl/lab1_g20_p3.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtb_lab1_g20_p3
+R0
+R1
+!i10b 1
+!s100 k^7AYmbaEBTcF[:aZM_Pn1
+R2
+IHUF`kCm0IHgT8oRn]j`S[1
+R3
+S1
+R4
+w1624886247
+8D:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv
+FD:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv
+!i122 6
+L0 3 24
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/fpga/lab1_g20_p3/tb/tb_lab1_g20_p3.sv|
+!i113 1
+R7
+R8
